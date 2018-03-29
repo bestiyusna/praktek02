@@ -12,8 +12,10 @@ package praktek02;
 public class tanahaksi {
     public static void main(String[] args) {
         
-        tanah G1 = new tanah();
-        G1.panjang = 90;
-        G1.lebar = 80;
+        tanah A1 = new tanah();
+        A1.panjang = 90;
+        A1.lebar = 80;
+        
+        A1.cetakInfo();
     }
 }
