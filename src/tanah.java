@@ -7,6 +7,11 @@
         panjang=20;
         lebar=220;
     }
+
+    public tanah(double lebar, double panjang) {
+        this.lebar = lebar;
+        this.panjang = panjang;
+    }
       
       
       
