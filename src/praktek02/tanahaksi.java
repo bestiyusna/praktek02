@@ -17,5 +17,7 @@ public class tanahaksi {
         A1.lebar = 80;
         
         A1.cetakInfo();
+        System.out.println("luas nya adalah : "+A1.hitungLuas());
+        A1.cetakLuasTanah();
     }
 }
