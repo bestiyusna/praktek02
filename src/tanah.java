@@ -1,4 +1,4 @@
 
- public class tanah {
+  public class tanah {
     
 }
