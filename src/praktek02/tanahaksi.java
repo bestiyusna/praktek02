@@ -12,5 +12,6 @@ package praktek02;
 public class tanahaksi {
     public static void main(String[] args) {
         
+        tanah G1 = new tanah();
     }
 }
